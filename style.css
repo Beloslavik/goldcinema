@@ -1,0 +1,98 @@
+body {
+  background: linear-gradient(
+      269.89deg,
+      rgba(245, 219, 79, 0.29) 20.4%,
+      rgba(12, 11, 10, 0.29) 93.88%
+    ),
+    rgba(182, 160, 105, 0.96);
+}
+
+.goldcinema {
+  position: absolute;
+  width: 706px;
+  height: 132px;
+  left: 530px;
+  top: 5px;
+
+  font-family: "Rye";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 120px;
+
+  color: #b1a853;
+}
+
+.fon {
+  position: absolute;
+  width: 1980px;
+  height: 230px;
+  left: 0px;
+  top: 0px;
+}
+
+.menu {
+  list-style: none;
+}
+
+.item {
+  margin-right: 25px;
+  position: absolute;
+  width: 1040px;
+  height: 77px;
+  left: 120px;
+  top: 242px;
+
+  background: #625c4d;
+}
+
+.menufilm {
+  margin-right: 100px;
+  text-decoration: none;
+  width: 260px;
+  height: 550px;
+  left: 134px;
+  top: 254px;
+
+  font-family: "Rye";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 45px;
+
+  color: #ffffff;
+}
+
+.menuserial {
+  margin-right: 100px;
+  text-decoration: none;
+  width: 260px;
+  height: 20px;
+  left: 494px;
+  top: 254px;
+
+  font-family: "Rye";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 45px;
+
+  color: #ffffff;
+}
+
+.menumult {
+  margin-right: 100px;
+  text-decoration: none;
+  width: 312px;
+  height: 20px;
+  left: 855px;
+  top: 254px;
+
+  font-family: "Rye";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 45px;
+
+  color: #ffffff;
+}
